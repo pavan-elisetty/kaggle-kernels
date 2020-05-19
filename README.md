@@ -1,4 +1,2 @@
 # kaggle_work
 works made for kaggle
-MY BIGGEST REPOSITRY
-AND THESE ARE MY PERSONAL DEVELOPMENT STUFF
