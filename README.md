@@ -1,2 +1,1 @@
-# kaggle_work
-works made for kaggle
+*kaggle kernels*
